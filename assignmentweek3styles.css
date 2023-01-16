@@ -1,0 +1,10 @@
+body    {
+    font-family: Calibri;
+    background-image: linear-gradient(darkblue, dodgerblue);
+    color: aliceblue;
+}
+#profilepic {
+    max-width: 25%;
+    float: right;
+    padding: 0px 20px 20px 20px;
+}
