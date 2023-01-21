@@ -8,3 +8,14 @@ body    {
     float: right;
     padding: 0px 20px 20px 20px;
 }
+.skills {
+    background-color: darkblue;
+    width: fit-content;
+    padding: 10px;
+}
+.skills-list > li {
+    color: darkblue;
+}
+.skills-list > li:hover {
+    color: aliceblue;
+}
